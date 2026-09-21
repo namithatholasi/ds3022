@@ -12,6 +12,9 @@ pyarrow = "*"
 seaborn = "*"
 numpy = "*"
 dbt-core = "*"
+requests = "*"
+httpx = "*"
+asyncio = "*"
 
 [dev-packages]
 

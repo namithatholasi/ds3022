@@ -27,6 +27,10 @@ asyncio = "*"
 websocket-client = "*"
 requests_sse = "*"
 orjson = "*"
+fastapi = {extras = ["standard"], version = "*"}
+pymongo = "*"
+pytest = "*"
+openai = "*"
 
 [dev-packages]
 
